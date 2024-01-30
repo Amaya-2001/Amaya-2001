@@ -2,8 +2,8 @@
 Hey there! 👋 I'm a software engineering undergraduate from Sri Lanka, passionate about all things related to technology and software development. I am currently focusing on learning full-stack development and honing my skills in various programming languages and frameworks.
 # Skills and Tools Currently being Learned
 <ul>
-  <li>Programming Languages: JavaScript, Java, Python</li>
-  <li>Web Development: HTML, CSS, JavaScript </br></li>
+  <li>Programming Languages: JavaScript, Java, Python, C#, TypeScript</li>
+  <li>Web Development: HTML, CSS, JavaScript, Bulma, Bootstrap </br></li>
   <li>Back-end Development: Node JS, C#, .Net Framework</li>
   <li>Front-end Development: React JS, Angular JS</li>
   <li>Databases: MySQL, MongoDB</li>
