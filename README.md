@@ -1,5 +1,5 @@
 # About Me
-Hey there! 👋 I'm a software engineer undergraduate from Sri Lanka, passionate about all things related to technology and software development. I am currently focusing on learning full-stack development and honing my skills in various programming languages and frameworks.
+Hey there! 👋 I'm a software engineering undergraduate from Sri Lanka, passionate about all things related to technology and software development. I am currently focusing on learning full-stack development and honing my skills in various programming languages and frameworks.
 # Skills and Tools Currently being Learned
 <ul>
   <li>Programming Languages: JavaScript, Java, Python</li>
