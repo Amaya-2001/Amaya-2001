@@ -4,8 +4,8 @@ Hey there! 👋 I'm a software engineer undergraduate from Sri Lanka, passionate
 <ul>
   <li>Programming Languages: JavaScript, Java, Python</li>
   <li>Web Development: HTML, CSS, JavaScript </br></li>
-  <li>Back-end Development: Node JS</li>
-  <li>Front-end Development: React JS</li>
+  <li>Back-end Development: Node JS, C#, .Net Framework</li>
+  <li>Front-end Development: React JS, Angular JS</li>
   <li>Databases: MySQL, MongoDB</li>
   <li>Version Control: Git</li>
 </ul>
@@ -20,6 +20,9 @@ Hey there! 👋 I'm a software engineer undergraduate from Sri Lanka, passionate
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
